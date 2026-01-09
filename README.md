@@ -1,15 +1,24 @@
-<h1 align="center">Hi 👋, I'm Ahmed Al-jbri</h1>
-<h3 align="center">A passionate frontend developer from aden/yemen</h3>
+# 💫 About Me:
+🔭 I’m currently working on Building personal projects to master Frontend Development<br>👯 I’m looking to collaborate on Open Source web projects built with my current tech stack<br>🌱 I’m currently learning Advanced JavaScript concepts (aiming to master the MERN stack)<br>💬 Ask me about HTML, CSS, Vanilla JS, and Linux<br>⚡ Fun fact: I use Fedora btw :)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=al-jbri&label=Profile%20views&color=0e75b6&style=flat" alt="al-jbri" /> </p>
 
-- 🌱 I’m currently learning **JS advanced basics**
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/al-jbri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_aljbri) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@al-jbri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aljbri.dev@gmail.com) 
 
-- 👨‍💻 All of my projects are available at [https://www.al-jbri.netlify.app](https://www.al-jbri.netlify.app)
+# 💻 Tech Stack:
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=Al-jbri&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=Al-jbri&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-jbri&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-- 💬 You can ask me about **HTML, CSS , Vanilla JS**
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-- 📫 How to reach me **aljbri.dev@gmail.com**
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Al-jbri&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> </p>
+---
+[![](https://visitcount.itsvg.in/api?id=Al-jbri&icon=0&color=0)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
