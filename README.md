@@ -3,7 +3,7 @@ A Web Developer passionate about Linux & Open Source 🐧
 Based in Aden, Yemen 🌍
 
 - 🔭 I’m currently working on **Building personal projects to master Frontend Development**
-- 👯 I’m looking to collaborate on **Open Source web projects**
+- 👯 I’m looking to collaborate on **Open Source web projects built with my current tech stack**
 - 🌱 I’m currently learning **Advanced JavaScript concepts (aiming to master the MERN stack)**
 - 💬 Ask me about **HTML, CSS, Vanilla JS, and Linux**
 - ⚡ Fun fact: **I use Fedora btw :)**
