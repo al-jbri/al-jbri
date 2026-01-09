@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ahmed+Al-jbri;Coding%F0%9F%92%BB;Always+learning+new+things+%F0%9F%92%A1" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00C3FF&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Ahmed+Al-jbri;Coding+%F0%9F%92%BB;Always+learning+new+things+%F0%9F%92%A1" />
 </p>
 
 # 💫 About Me:
