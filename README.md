@@ -12,8 +12,6 @@ Based in Aden, Yemen 🌍
 - 💬 Ask me about **HTML, CSS, Vanilla JS, and Linux**
 - ⚡ Fun fact: **I use Fedora btw :)**
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/al-jbri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_aljbri) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@al-jbri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aljbri.dev@gmail.com) 
 
 # 💻 Tech Stack:
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
@@ -29,5 +27,7 @@ Based in Aden, Yemen 🌍
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Al-jbri&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/al-jbri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_aljbri) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@al-jbri) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aljbri.dev@gmail.com) 
 ---
 [![](https://visitcount.itsvg.in/api?id=Al-jbri&icon=0&color=0)](https://visitcount.itsvg.in)
