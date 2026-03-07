@@ -18,9 +18,9 @@ Based in Aden, Yemen 🌍
 
 ## 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Al-jbri&theme=react&hide_border=true&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=Al-jbri&theme=react&hide_border=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Al-jbri&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
+![](https://github-readme-stats.vercel.app/api?username=al-jbri&theme=react&hide_border=true&include_all_commits=true&count_private=true)
+![](https://nirzak-streak-stats.vercel.app/?user=al-jbri&theme=react&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=al-jbri&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact) 
 
 <img
     alt="Profile views"
