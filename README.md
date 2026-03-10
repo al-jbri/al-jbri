@@ -14,7 +14,7 @@ Based in Aden, Yemen
 
 
 ## Tech Stack:
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![git](https://img.shields.io/badge/git-%23E34F26.svg?style=for-the-badge&logo=git&logoColor=white) ![linux](https://img.shields.io/badge/linux-%23000000.svg?style=for-the-badge&logo=linux&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,linux,git,markdown)
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=in&logoColor=white)](https://linkedin.com/in/al-jbri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_aljbri) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@al-jbri) [![email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:aljbri.dev@gmail.com) 
