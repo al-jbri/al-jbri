@@ -17,7 +17,5 @@ Based in Aden, Yemen
 ![My Skills](https://skillicons.dev/icons?i=html,css,js,linux,git,markdown)
 
 
-https://github-readme-stats.vercel.app/api?username=al-jbri
-
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=in&logoColor=white)](https://linkedin.com/in/al-jbri) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/_aljbri) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@al-jbri) [![email](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:aljbri.dev@gmail.com) 
