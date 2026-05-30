@@ -20,4 +20,4 @@ Based in Aden, Yemen
 
 
 ## Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%23141414.svg?logo=linkedin&logoColor=00FF66)](https://linkedin.com/in/al-jbri) [![X](https://img.shields.io/badge/X-%23141414.svg?logo=X&logoColor=00FF66)](https://x.com/_aljbri) [![YouTube](https://img.shields.io/badge/YouTube-%23141414.svg?logo=youtube&logoColor=00FF66)](https://youtube.com/@al-jbri) [![Gmail](https://img.shields.io/badge/Gmail-%23141414.svg?logo=gmail&logoColor=00FF66)](mailto:aljbri.dev@outlook.com)
+[![X](https://img.shields.io/badge/X-%23141414.svg?logo=X&logoColor=00FF66)](https://x.com/_aljbri) [![YouTube](https://img.shields.io/badge/YouTube-%23141414.svg?logo=youtube&logoColor=00FF66)](https://youtube.com/@al-jbri) [![Gmail](https://img.shields.io/badge/Gmail-%23141414.svg?logo=gmail&logoColor=00FF66)](mailto:aljbri.dev@outlook.com)
