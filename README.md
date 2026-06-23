@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=#18cb90&center=true&vCenter=true&width=500&lines=Ahmed+Al-jbri;Learning+software+development+%F0%9F%92%BB;Open+source+believer+%F0%9F%90%A7" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=24&pause=1000&color=18cb90&center=true&vCenter=true&width=500&lines=Ahmed+Al-jbri;Learning+software+development+%F0%9F%92%BB;Open+source+believer+%F0%9F%90%A7" />
 </p>
 
 # About Me
